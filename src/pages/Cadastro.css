@@ -1,0 +1,22 @@
+.add-product{
+    border-top: 1px solid #000;
+  }
+  
+  form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  form input{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  
+  button{
+    background-color: #389fe4;
+    color: white;
+    border: 1px solid #389fe4;
+  }
